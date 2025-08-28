@@ -1,7 +1,8 @@
-#This project demonstrates the use of Git and GitHub for effective version control in a collaborative development environment. It includes tasks focused on Git basics, #Core Programming Concepts & Problem Solving & API Interaction
+# This project demonstrates the use of Git and GitHub for effective version control in a collaborative development environment. It includes tasks focused on Git basics,
+# Core Programming Concepts & Problem Solving & API Interaction
 
 
-#(LINKS)
+# (LINKS)
 
 #Task 1.2: Git Basics — [task-1.2-git-basics/](./hello.py/)
 #Task-1.3-code-style -[Task-1.3-code-style](./bad_style.py)
@@ -11,10 +12,10 @@
 #Task-3.1-api-interaction -[task-3.1-api-interaction](api_client.py)
 
 
-#(To run the code)
+# (To run the code)
 
-# Clone the repo: `git clone <https://github.com/Rakesh-Muriki/-python-dev-assessment.>`
-# Navigate into the python-dev-assessment folder.
+#Clone the repo: `git clone <https://github.com/Rakesh-Muriki/-python-dev-assessment.>`
+#Navigate into the python-dev-assessment folder.
 #Run hello.py,bad_style.py,dsa_challenges.py,book_store.py,debug_errors.py,api_client.py.
 
 
